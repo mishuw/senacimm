@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Sena</h1>
+<h1 align="center">Merhaba 👋, ben Sena. </h1>
 <h3 align="center">Back end geliştiriciyim (Bazen frontend deniyorum :D). Üni 1 öğrencisiyim. Yaklaşık 4 yıl yazılım geliştirme geçmişim var</h3>
 
 <h3 align="left">Bana ulaş:</h3>
